@@ -23,7 +23,7 @@ State-wise sales performance: California and New York lead in total sales.
 Sales forecasting: A 15-day sales forecast helps in demand planning.
 🛠️ How to Use the Dashboard
 Download the .pbix file from this repository.
-Open it using Power BI Desktop (Download here).
+Open it using Power BI Desktop.
 Explore interactive visualizations and customize filters as needed.
 Gain insights into business performance, trends, and forecasts.
 🔍 Tools & Technologies Used
@@ -47,6 +47,6 @@ This Power BI dashboard can be utilized for:
 Feel free to fork this repository, make enhancements, and contribute! 🚀 If you have any questions, reach out via GitHub Issues.
 
 📧 Contact
-For any queries or feedback, reach out to Manidip Debnath.
+For any queries or feedback, reach out to Hritik Ghorpade (hritik@umich.edu).
 
 
